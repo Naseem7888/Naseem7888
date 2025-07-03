@@ -9,3 +9,5 @@ Hi, I'm **Naseem Akhtar** – a 💻 Full Stack Python Developer passionate abou
 * 🚀 Exploring AI & ML integration in web apps
 
 Let’s build something cool together! 🤝
+
+![snake gif](https://github.com/Naseem7888/Naseem7888/blob/output/github-snake-dark.svg)
