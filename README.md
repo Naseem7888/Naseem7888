@@ -1,7 +1,3 @@
-Sure! Here's a **short and punchy "About Me"** section for your GitHub profile as a **Full Stack Python Developer**, with emojis:
-
----
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Naseem Akhtar** – a 💻 Full Stack Python Developer passionate about building scalable web apps and smart backend systems.
