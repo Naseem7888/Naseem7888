@@ -7,6 +7,7 @@ Hi, I'm **Naseem Akhtar** – a 💻 Full Stack Python Developer passionate abou
 * 💾 PostgreSQL | MongoDB
 * 🧠 Love automation, APIs, and clean code
 * 🚀 Exploring AI & ML integration in web apps
+* Building AI-Powered SaaS applications using Python & Django." (Show confidence, not just "exploring").
 
 Let’s build something cool together! 🤝
 
